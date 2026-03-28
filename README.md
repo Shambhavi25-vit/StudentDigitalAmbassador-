@@ -8,8 +8,6 @@
 > Registration No.: 25BCE10649
 > Institution: VIT Bhopal University
 
-# 🎓 Digital Literacy Portfolio
-### Student Digital Ambassador | VIT Bhopal University
 
 > A comprehensive repository demonstrating foundational skills in professional branding, secure communication, and cloud-based collaboration.
 
