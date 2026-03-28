@@ -26,25 +26,25 @@ This repository serves as a curated collection of work completed during the Digi
 
 ### 📍 Module 2: Building a Student Digital Portfolio
 * **Objective:** Establish a cohesive and professional online identity.
-* **Deliverables:** * Optimized **LinkedIn** Profile.
+* **Deliverables:**  Optimized **LinkedIn** Profile.
     * Custom **GitHub Profile README** with dynamic widgets.
 * **Stack:** Markdown, Git, Personal Branding.
 
 ### 📍 Module 3: Coding & Collaboration Platforms
 * **Objective:** Master industry-standard practice and cloud-based data collection.
-* **Deliverables:** * **HackerRank** beginner challenge completion.
+* **Deliverables:**  **HackerRank** beginner challenge completion.
     * **Digital Literacy Awareness Quiz** (Google Forms + Sheets integration).
 * **Stack:** Python/Logic, Google Workspace.
 
 ### 📍 Module 4: Professional Email & Etiquette
 * **Objective:** Refine communication for academic and corporate environments.
-* **Deliverables:** * Formal Email Templates (Leave requests, internship inquiries).
+* **Deliverables:**  Formal Email Templates (Leave requests, internship inquiries).
     * **Social Media Checklist:** "Do's and Don'ts" for a clean digital footprint.
 * **Stack:** Professional Communication, Business Etiquette.
 
 ### 📍 Module 5: Cybercrime Awareness & Prevention
 * **Objective:** Research and mitigate modern digital threats.
-* **Deliverables:** * **Case Study:** Analysis of Phishing/UPI Fraud.
+* **Deliverables:**  **Case Study:** Analysis of Phishing/UPI Fraud.
     * **Prevention Guide:** "Stay Safe Online" toolkit for university students.
 * **Stack:** Cybersecurity Research, Threat Analysis.
 
