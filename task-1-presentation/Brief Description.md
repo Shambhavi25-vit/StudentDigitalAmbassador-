@@ -11,7 +11,7 @@ The objective of this task was to design a comprehensive, one-page infographic t
 
 ## 🖼️ Featured Resource
 ### [The Student's Digital Toolkit: Mastering the Online World]
-![Student's Digital Toolkit Infographic](students-digital-toolkit-infographic.png)
+![Student's Digital Toolkit Infographic](task1pic.png)
 
 *Visual guide created using Canva.*
 
