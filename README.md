@@ -4,7 +4,6 @@
 ---
 
 
-```bash
 > Name: Shambhavi Dixit
 > Registration No.: 25BCE10649
 > Institution: VIT Bhopal University
