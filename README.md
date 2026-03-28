@@ -5,9 +5,8 @@
 
 ---
 
-## 👤 Personal Information
+# 👤 Personal Information
 ```bash
-$ whoami
 > Name: Shambhavi Dixit
 > Registration No.: 25BCE10649
 > Institution: VIT Bhopal University
