@@ -3,7 +3,7 @@
 
 ---
 
-## 👤 Personal Information
+
 ```bash
 > Name: Shambhavi Dixit
 > Registration No.: 25BCE10649
