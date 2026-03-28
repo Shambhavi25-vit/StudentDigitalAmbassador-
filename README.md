@@ -1,11 +1,9 @@
-# StudentDigitalAmbassador-
-
 # 🎓 Digital Literacy Portfolio
 ### Student Digital Ambassador | VIT Bhopal University
 
 ---
 
-# 👤 Personal Information
+## 👤 Personal Information
 ```bash
 > Name: Shambhavi Dixit
 > Registration No.: 25BCE10649
