@@ -33,5 +33,3 @@ A curated overview of my professional digital footprint and technical contributi
 * **Key Highlights:** Engaging with real-world datasets to sharpen analytical thinking.
 
 ---
-
-[⬅️ Back to Task 1](StudentDigitalAmbassador-/task-1-presentation/)
