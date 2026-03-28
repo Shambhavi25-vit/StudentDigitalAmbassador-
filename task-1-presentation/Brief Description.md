@@ -5,8 +5,6 @@ This section contains the visual resources developed during my tenure as a **Stu
 
 The objective of this task was to design a comprehensive, one-page infographic to help peers navigate the core components of Digital Literacy. By providing actionable steps, this resource aims to bridge the gap between basic internet usage and professional digital fluency. 
 
-> **Note:** The complete written description and reflective analysis for this task are located in the [Main Project Report](../link-to-your-report.md).
-
 ---
 
 ## 🖼️ Featured Resource
@@ -25,5 +23,3 @@ The infographic is structured around three foundational "pillars" of digital cit
 3. **Professional Email Etiquette** Mastering essential "Netiquette" standards required for academic and professional communication success.
 
 ---
-
-[⬅ Back to Main Repository](../../)
