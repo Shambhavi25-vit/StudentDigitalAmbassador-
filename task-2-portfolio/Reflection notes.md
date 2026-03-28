@@ -34,4 +34,4 @@ A curated overview of my professional digital footprint and technical contributi
 
 ---
 
-[⬅️ Back to Task 1](./task1-folder-path) | [🏠 Home](../../)
+[⬅️ Back to Task 1](task-1-presentation)
