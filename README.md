@@ -36,7 +36,8 @@ This repository serves as a curated collection of work completed during the Digi
     * **Digital Literacy Awareness Quiz** (Google Forms + Sheets integration).
 * **Stack:** Python/Logic, Google Workspace.
 * **Link:** https://docs.google.com/forms/d/e/1FAIpQLSdHA3yRE2btXlxBrOOx1F07QInKN529zHOP9NQxWq2bkD9nZw/viewform?usp=publish-editor
-            https://docs.google.com/spreadsheets/d/10462eluWstV6hqcyN1CvQoMMYnFahFOmJD0-AfDAVn4/edit?usp=sharing
+*
+           https://docs.google.com/spreadsheets/d/10462eluWstV6hqcyN1CvQoMMYnFahFOmJD0-AfDAVn4/edit?usp=sharing
 
 ### 📍 Module 4: Professional Email & Etiquette
 * **Objective:** Refine communication for academic and corporate environments.
